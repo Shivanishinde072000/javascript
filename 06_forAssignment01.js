@@ -4,8 +4,8 @@ for(let i=5; i<=15; i++){
     console.log(i);
 }
 console.log(`---- Print number from 50 to 40 by decrementing 1 'Using for Loop' ----`);
-for(let i=50; i>=40; i--){
-    console.log(i);
+for(let index=50; index>=40; index--){
+    console.log(index);
 }
 console.log(`---- Print 1 to 15 odd numbers 'Using for Loop' ----`);
 for(let i=1; i<=15; i+=2){
